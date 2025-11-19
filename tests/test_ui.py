@@ -1,5 +1,3 @@
-import time
-
 import data
 import url
 from pages.checkout_page import CheckoutPage

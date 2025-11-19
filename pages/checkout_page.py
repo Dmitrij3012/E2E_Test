@@ -1,5 +1,3 @@
-import time
-
 import generators
 from locators.checkout_page_locators import CheckoutPageLocators
 from pages.base_page import BasePage
